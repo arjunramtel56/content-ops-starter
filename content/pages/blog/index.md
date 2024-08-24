@@ -8,7 +8,7 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: 'This is '
+    subtitle: This is Professional Facebook Account
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
