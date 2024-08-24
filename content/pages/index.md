@@ -25,7 +25,7 @@ sections:
         elementId: ''
         type: Button
       - label: Facebook
-        altText: ''
+        altText: This is my professional Social Media Platform
         url: >-
           https://www.facebook.com/profile.php?id=100087924180350&mibextid=qi2Omg&rdid=6qvk8SCJAz16E1Id&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FELwgSE5x8eFwQigq%2F%3Fmibextid%3Dqi2Omg
         showIcon: true
