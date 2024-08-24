@@ -159,7 +159,7 @@ sections:
         image:
           url: >-
             /images/Screenshot_2024-08-24-14-07-44-160_com.twitter.android-edit.jpg
-          altText: Featured icon three
+          altText: ''
           elementId: ''
           type: ImageBlock
         actions:
