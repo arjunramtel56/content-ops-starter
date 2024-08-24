@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: My provide the Information of my social media platform
+    subtitle: I'm provide the Information of my social media platform
     items:
       - type: FeaturedItem
         title: Instgaram
