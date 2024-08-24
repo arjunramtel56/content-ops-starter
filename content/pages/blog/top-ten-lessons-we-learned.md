@@ -1,5 +1,7 @@
 ---
-title: "Hello, Everyone I'm Arjun. I'm Designer. my work platform is social media and technology platform working my\_professional"
+title: >-
+  Hello, Everyone I'm Arjun. I'm Designer. my work platform is social media and
+  technology platform and professional this work in my daily life
 slug: top-ten-lessons-we-learned
 date: '2024-08-24'
 excerpt: >-
