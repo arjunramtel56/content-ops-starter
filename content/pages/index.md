@@ -5,8 +5,8 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        Hello, I'm Arjun My Different Different Quality & Experience in my work
-        flow 
+        Hello, I'm Arjun My Different Different Quality & Experience in my
+        Prospection in my  life
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
