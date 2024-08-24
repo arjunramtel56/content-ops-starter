@@ -109,10 +109,14 @@ sections:
               borderRadius: medium
       - title: Facebook Page
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Hello I'm Arjun.**
+
+          This is my '**Facebook Page**'.
+
+          This **Facebook Page** design purpose of my **personal** information
+          '**post and share'.**
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
