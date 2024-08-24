@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: 'Hello, I''m Arjun.'
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: This is Professional Facebook Account
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
