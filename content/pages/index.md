@@ -186,7 +186,7 @@ sections:
     actions:
       - label: Get Youtube
         altText: ''
-        url: ''
+        url: 'https://youtube.com/@ak_edited-2?si=61Pz-9EnxPkznUWo'
         showIcon: false
         icon: arrowRight
         iconPosition: right
