@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Hello I'm Arjun.
+      text: 'Hello, I''m Arjun.'
       color: text-dark
       type: TitleBlock
     subtitle: This is Professional Facebook Account
