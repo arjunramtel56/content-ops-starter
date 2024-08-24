@@ -81,6 +81,16 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://www.instagram.com/arjun_ramtel56/?utm_source=qr&igsh=OXQxd3A1bnlyY3k5
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
