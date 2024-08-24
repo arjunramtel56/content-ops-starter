@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: I'm Student of Information Technology
     text: >+
-      \<div style="text-align: center">I have learning the '**information
+      \<div style="text-align: left">I have learning the '**information
       technology**' fill has a '**student**' in fourth year of my career.
 
       I have learning the '**different type of education**' and '**skills**' in
