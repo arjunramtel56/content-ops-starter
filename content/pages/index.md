@@ -108,7 +108,7 @@ sections:
             self:
               borderRadius: medium
       - title: Facebook Page
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
           **Hello I'm Arjun.**
 
