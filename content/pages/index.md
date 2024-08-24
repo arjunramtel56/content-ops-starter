@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Hello, I''m Arjun'
+      text: 'Hello, I''m Arjun '
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
