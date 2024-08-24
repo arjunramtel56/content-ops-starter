@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/1724486020152.jpg
+      url: /images/ppppppppp.jpg
       altText: ''
       elementId: ''
       type: ImageBlock
