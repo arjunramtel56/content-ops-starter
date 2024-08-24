@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Instgaram
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           **Hello I'm Arjun.**
           This is my '**Instagram account'**
