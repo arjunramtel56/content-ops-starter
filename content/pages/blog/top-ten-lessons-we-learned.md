@@ -1,7 +1,7 @@
 ---
 title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
 slug: top-ten-lessons-we-learned
-date: '2021-08-25'
+date: '2024-08-25'
 excerpt: >-
   I have learning the 'information technology' fill has a 'student' in fourth
   year of my career.
