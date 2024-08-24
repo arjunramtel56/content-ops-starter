@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: My provide the Information of my social media platform
     items:
       - type: FeaturedItem
         title: 500k
