@@ -67,9 +67,13 @@ sections:
       - type: FeaturedItem
         title: Instgaram
         subtitle: ''
-        text: |
+        text: >
           **Hello I'm Arjun.**
-          This is my '**Instagram account'**
+
+          This is my '**Instagram account'.
+
+          **This **Instagram account** design purpose of my **personal**
+          information '**post and share'.** 
         actions:
           - type: Button
             label: Get started
