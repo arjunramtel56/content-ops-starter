@@ -1,5 +1,5 @@
 ---
-title: 'Hello, Everyone I''m Arjun. I De'
+title: 'Hello, Everyone I''m Arjun. I Designer'
 slug: top-ten-lessons-we-learned
 date: '2024-08-24'
 excerpt: >-
