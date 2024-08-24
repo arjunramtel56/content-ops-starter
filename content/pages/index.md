@@ -56,22 +56,35 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: This all my 'Social Media"
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: My provide the Information of my social media platform
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+        title: Instgaram
+        subtitle: ''
+        text: >
+          **Hello I'm Arjun.**
+
+          This is my '**Instagram account'.
+
+          **This **Instagram account** design purpose of my **personal**
+          information '**post and share'.** 
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://www.instagram.com/arjun_ramtel56/?utm_source=qr&igsh=OXQxd3A1bnlyY3k5
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -87,24 +100,40 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          url: >-
+            /images/Screenshot_2024-08-24-13-55-23-617_com.instagram.android-edit.jpg
+          altText: Image alt text placeholder
           elementId: ''
-          url: /images/icon1.svg
           styles:
             self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+              borderRadius: medium
+      - title: Facebook Page
+        subtitle: ''
+        text: >+
+          **Hello I'm Arjun.**
+
+          This is my '**Facebook Page**'.
+
+          This **Facebook Page** design purpose of my **personal** information
+          '**post and share'.**
+
         image:
-          url: /images/icon2.svg
-          altText: Featured icon two
+          url: >-
+            /images/Screenshot_2024-08-24-14-01-55-719_com.facebook.katana-edit.jpg
+          altText: ''
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://www.facebook.com/officialarjunramtel56?mibextid=qi2Omg&rdid=qOxj2Er17zutWw6l&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FeQS2CfBnJ1N86eRL%2F%3Fmibextid%3Dqi2Omg
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -118,18 +147,31 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: '''X'' Account'
+        subtitle: ''
+        text: >
+          **Hello I'm Arjun.**
+
+          This is my '**X account**'.
+
+          This **X account** design purpose of my **personal** information
+          '**post and share'.**
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
+          url: >-
+            /images/Screenshot_2024-08-24-14-07-44-160_com.twitter.android-edit.jpg
+          altText: ''
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://x.com/arjunramtel56?t=Zu7ChlmlVs0ZIqt1QsvFEg&s=09'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -151,13 +193,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
