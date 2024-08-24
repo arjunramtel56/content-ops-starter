@@ -149,14 +149,13 @@ sections:
         type: FeaturedItem
       - title: Twiiter X
         subtitle: Faster
-        text: >+
+        text: >
           **Hello I'm Arjun.**
 
-          This is my '**Twitter account**'.
+          This is my '**Twitter X account**'.
 
-          This **Twitter account** design purpose of my **personal** information
-          '**post and share'.**
-
+          This **Twitter X account** design purpose of my **personal**
+          information '**post and share'.**
         image:
           url: /images/icon3.svg
           altText: Featured icon three
