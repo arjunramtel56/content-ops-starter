@@ -72,15 +72,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         actions:
-          - type: Link
-            altText: ''
-            url: >-
-              https://www.instagram.com/arjun_ramtel56/?utm_source=qr&igsh=OXQxd3A1bnlyY3k5
-            showIcon: true
-            icon: instagram
-            iconPosition: right
-            style: secondary
-            elementId: ''
           - type: Button
             label: Get started
             altText: ''
