@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: My provide the Information of my social media platform
+    subtitle: I'm provide the Information of my social media platform
     items:
       - type: FeaturedItem
         title: Instgaram
@@ -184,9 +184,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Get Youtube
         altText: ''
-        url: /
+        url: 'https://youtube.com/@ak_edited-2?si=61Pz-9EnxPkznUWo'
         showIcon: false
         icon: arrowRight
         iconPosition: right
