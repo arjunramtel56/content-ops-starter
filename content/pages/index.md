@@ -147,7 +147,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Twiiter X
+      - title: '''X'' Account'
         subtitle: ''
         text: >
           **Hello I'm Arjun.**
