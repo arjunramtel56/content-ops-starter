@@ -7,7 +7,7 @@ sections:
       text: "Hello, I'm Arjun.\_ I'm Designer."
       color: text-dark
       type: TitleBlock
-    subtitle: I'm Student of
+    subtitle: I'm Student of Information Technology
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
