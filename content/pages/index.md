@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: I'm Student of Information Technology
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      \<div style="text-align: center">I have learning the '**information
+      technology**' fill has a '**student**' in fourth year of my career.
+
+      I have learning the '**different type of education**' and '**skills**' in
+      my daily life.\</div>
+
     actions:
       - label: Get started
         altText: ''
