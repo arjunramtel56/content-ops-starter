@@ -186,7 +186,7 @@ sections:
     actions:
       - label: Get Youtube
         altText: ''
-        url: /
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
