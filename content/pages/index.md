@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Hello, I''m Arjun''m Designer.'
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
