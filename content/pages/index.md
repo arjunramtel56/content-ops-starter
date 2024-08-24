@@ -123,7 +123,17 @@ sections:
           altText: ''
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://www.facebook.com/officialarjunramtel56?mibextid=qi2Omg&rdid=qOxj2Er17zutWw6l&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FeQS2CfBnJ1N86eRL%2F%3Fmibextid%3Dqi2Omg
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
