@@ -152,10 +152,10 @@ sections:
         text: >
           **Hello I'm Arjun.**
 
-          This is my '**Twitter X account**'.
+          This is my '**X account**'.
 
-          This **Twitter X account** design purpose of my **personal**
-          information '**post and share'.**
+          This **X account** design purpose of my **personal** information
+          '**post and share'.**
         image:
           url: >-
             /images/Screenshot_2024-08-24-14-07-44-160_com.twitter.android-edit.jpg
