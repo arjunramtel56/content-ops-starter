@@ -96,7 +96,8 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: >-
+            /images/Screenshot_2024-08-24-13-55-23-617_com.instagram.android-edit.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
