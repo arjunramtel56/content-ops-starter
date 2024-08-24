@@ -1,5 +1,5 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: 'Hello, Everyone I''m Arjun. I'
 slug: top-ten-lessons-we-learned
 date: '2024-08-24'
 excerpt: >-
