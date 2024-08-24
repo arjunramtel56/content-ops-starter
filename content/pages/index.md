@@ -2,6 +2,58 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: "Hello, I'm Arjun.\_ I'm Designer."
+      color: text-dark
+      type: TitleBlock
+    subtitle: I'm Student of Information Technology
+    text: >
+      I have learning the '**information technology**' fill has a '**student**'
+      in fourth year of my career.
+
+      I have learning the '**different type of education**' and '**skills**' in
+      my daily life.
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: Facebook
+        altText: This is my professional Social Media Platform
+        url: >-
+          https://www.facebook.com/profile.php?id=100087924180350&mibextid=qi2Omg&rdid=6qvk8SCJAz16E1Id&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FELwgSE5x8eFwQigq%2F%3Fmibextid%3Dqi2Omg
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/ppppppppp.jpg
+      altText: ''
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: 'Hello, I''m Arjun Ramtel'
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -119,58 +171,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: "Hello, I'm Arjun.\_ I'm Designer."
-      color: text-dark
-      type: TitleBlock
-    subtitle: I'm Student of Information Technology
-    text: >
-      I have learning the '**information technology**' fill has a '**student**'
-      in fourth year of my career.
-
-      I have learning the '**different type of education**' and '**skills**' in
-      my daily life.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: Facebook
-        altText: This is my professional Social Media Platform
-        url: >-
-          https://www.facebook.com/profile.php?id=100087924180350&mibextid=qi2Omg&rdid=6qvk8SCJAz16E1Id&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FELwgSE5x8eFwQigq%2F%3Fmibextid%3Dqi2Omg
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/ppppppppp.jpg
-      altText: ''
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: 'Hello, I''m Arjun Ramtel'
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
