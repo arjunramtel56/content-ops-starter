@@ -118,7 +118,8 @@ sections:
           '**post and share'.**
 
         image:
-          url: /images/icon2.svg
+          url: >-
+            /images/Screenshot_2024-08-24-14-01-55-719_com.facebook.katana-edit.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
