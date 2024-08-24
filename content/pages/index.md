@@ -148,7 +148,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Twiiter X
-        subtitle: Faster
+        subtitle: ''
         text: >
           **Hello I'm Arjun.**
 
