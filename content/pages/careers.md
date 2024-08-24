@@ -9,13 +9,25 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    subtitle: 'Hello, Everyone I''m Arjun Ramtel'
+    text: >+
+      Hello, Everyone I'm **'Arjun Ramtel'**. I'm Designer. my work platform is
+      social media and technology platform and **professional this work** in my
+      daily life.
+
+      I have learning the '**information technology**' fill has a '**student**'
+      in fourth year of my career.
+
+      I have learning the '**different type of education**' and '**skills**' in
+      my daily life.
+
+
+
+
+
+
+
+
     actions:
       - label: See open positions
         url: /
