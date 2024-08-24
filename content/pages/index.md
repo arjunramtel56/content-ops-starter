@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Hello, I'm Arjun My Different Different Quality & Experience in my
-        Prospection in my  life
+      text: 'Hello, I''m ArjunI''m Designer.'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
