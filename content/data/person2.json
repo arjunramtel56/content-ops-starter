@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "Aasta Devi Ramtel",
-    "role": "Professional IT Engineer",
+    "role": "IT Engineer",
     "image": {
         "url": "/images/1023540.jpg",
         "altText": "Faizah Chan",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Hello, I'm '**Aasta Devi Ramtel'\n**I'm d**esigner of this platform**\nI'm a Student of '**information technology**'\n"
+    "bio": "Hello, I'm **'Aasta Devi Ramtel'**.\nI'm **designer of this platform.**\nI'm a Student of '**information technology**'.\n"
 }
