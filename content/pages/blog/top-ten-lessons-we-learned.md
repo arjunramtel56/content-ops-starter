@@ -1,5 +1,5 @@
 ---
-title: 'Hello, Everyone I''m Arjun. I Designer'
+title: 'Hello, Everyone I''m Arjun. I Designer. my work platform is social media and'
 slug: top-ten-lessons-we-learned
 date: '2024-08-24'
 excerpt: >-
