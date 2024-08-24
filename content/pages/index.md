@@ -149,10 +149,14 @@ sections:
         type: FeaturedItem
       - title: Twiiter
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Hello I'm Arjun.**
+
+          This is my '**Twitter account**'.
+
+          This **Twitter account** design purpose of my **personal** information
+          '**post and share'.**
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
