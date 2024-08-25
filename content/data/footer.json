@@ -37,7 +37,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Arjun ramtel",
         "links": [
             {
                 "label": "Careers",
@@ -62,13 +62,13 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/arjunramtel56",
             "icon": "github",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "altText": "X",
+            "url": "https://x.com/arjunramtel56?t=Zu7ChlmlVs0ZIqt1QsvFEg&s=09",
             "icon": "twitter",
             "type": "Social"
         },

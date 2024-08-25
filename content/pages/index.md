@@ -363,20 +363,20 @@ sections:
       this is platform design by social media management system.
     actions:
       - label: Get started
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: Facebook
+        url: 'https://www.facebook.com/share/rgmGh31TiKm4q9cH/?mibextid=qi2Omg'
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/1724486020152.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
