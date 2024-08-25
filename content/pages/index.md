@@ -208,7 +208,7 @@ sections:
         textAlign: center
   - subtitle: This is a platform of I'm working of E-commerce business
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/1691751088logo-tiktok-png.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
