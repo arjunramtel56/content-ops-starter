@@ -369,7 +369,7 @@ sections:
         style: secondary
         type: Button
       - label: Facebook
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
