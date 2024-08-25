@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/favicon.svg",
-        "altText": "",
+        "altText": "Home",
         "styles": {
             "self": {
                 "margin": [
@@ -12,14 +12,6 @@
         "type": "ImageBlock"
     },
     "primaryLinks": [
-        {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
         {
             "label": "Blog",
             "altText": "Blog",
@@ -39,36 +31,45 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "type": "SubNav",
+            "label": "About",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "type": "Link",
+                    "label": "Services",
+                    "altText": "",
                     "url": "/",
+                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
-                    "label": "Dropdown item",
+                    "type": "Link",
+                    "label": "FAQs",
+                    "altText": "",
                     "url": "/",
+                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
-                    "label": "Dropdown item",
+                    "type": "Link",
+                    "label": "Contact",
+                    "altText": "",
                     "url": "/",
+                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 }
             ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
