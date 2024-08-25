@@ -94,14 +94,10 @@ sections:
     items:
       - title: Digital Marketing
         subtitle: Sales
-        text: >+
-          Sales the product of online platform and increase your experience and
-          your portfolio.
-
-
-          Digital marketing help the your income source generate of your daily
-          life
-
+        text: >
+          Sales the product of online platform and **increase your experience**
+          and your portfolio. **Digital marketing** help the your income source
+          '**generate of your daily life'.**
         colors: bg-neutral-fg-dark
         styles:
           self:
