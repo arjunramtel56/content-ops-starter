@@ -448,7 +448,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Arjun Ramtel (29mm-35mm).jpg
           altText: Maria Walters
           styles:
             self:
