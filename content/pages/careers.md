@@ -90,7 +90,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: it's your choice of your way
     items:
       - title: Account Executive
         subtitle: Sales
