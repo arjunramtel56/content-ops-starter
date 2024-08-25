@@ -595,7 +595,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/Arjun Ramtel (29mm-35mm).jpg
           altText: Arjun Ramtel
           styles:
             self:
