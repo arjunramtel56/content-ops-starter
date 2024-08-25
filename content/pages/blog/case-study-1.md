@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Arjun Ramtel (29mm-35mm).jpg
-  altText: Case study 1
+  altText: Arjun Ramtel
   styles:
     self:
       borderRadius: large
