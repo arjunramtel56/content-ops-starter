@@ -93,7 +93,7 @@ sections:
     subtitle: it's your choice of your way
     items:
       - title: Digital Marketing
-        subtitle: Sales
+        subtitle: Sales of Product
         text: >
           Sales the product of online platform and **increase your experience**
           and your portfolio. **Digital marketing** help the your income source
