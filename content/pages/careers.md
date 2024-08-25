@@ -84,20 +84,20 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Positions open careers
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: it's your choice of your way
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Digital Marketing
+        subtitle: Sales of Product
+        text: >
+          Sales the product of online platform and **increase your experience**
+          and your portfolio. **Digital marketing** help the your income source
+          '**generate of your daily life'.**
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -111,12 +111,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: E-commerce
+        subtitle: Marketing of social media
+        text: >
+          **E-commerce** platform is working of social media help to generate
+          the your income source of daily life.
+
+
+          **'E-commerce and Digital Marketing'** is a partnership of this
+          **business model** of income generate of your life.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -131,11 +134,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Professional IT Engineer
+        text: >
+          Professional IT Engineer is not a professional job this is a challenge
+          of digital word
         colors: bg-neutral-fg-dark
         styles:
           self:
