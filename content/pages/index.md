@@ -260,7 +260,7 @@ sections:
     title:
       type: TitleBlock
       text: This is a Member of this platform design
-      color: text-dark
+      color: text-light
   - title: Divider
     colors: bg-light-fg-dark
     styles:
