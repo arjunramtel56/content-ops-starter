@@ -256,6 +256,11 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Professional IT Engineer
+    title:
+      type: TitleBlock
+      text: This is a Member of this platform design
+      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
