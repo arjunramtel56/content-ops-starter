@@ -341,13 +341,13 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Digital Marketing
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Host by Arjun Ramtel
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      This website designing of e-commerce platform to working a partnership of
+      digital marketing
     actions:
       - label: Get started
         url: /
@@ -355,7 +355,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Upcmoing
         url: /
         showIcon: true
         icon: arrowRight
@@ -366,10 +366,6 @@ sections:
       url: /images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
@@ -665,15 +661,11 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Arjun Ramtel
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Professional IT Engineer
+    text: "Hello, Everyone I'm\_**'Arjun Ramtel'**. I'm Designer. my work platform is social media and technology platform and\_**professional this work.**\nThis platform design by **E-commerce** platform running and help of '**Digital Marketing'**.\n\n  \n"
     media:
       fields:
         - name: name
