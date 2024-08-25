@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/1023540.jpg
-  altText: Case study 2
+  altText: Aasta Devi Ramtel
   styles:
     self:
       borderRadius: x-large
