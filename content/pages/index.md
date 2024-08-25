@@ -208,10 +208,10 @@ sections:
         textAlign: center
   - subtitle: This is a platform of I'm working of E-commerce business
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/61837.jpg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/3516746.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
@@ -226,7 +226,7 @@ sections:
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/54654.jpg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
