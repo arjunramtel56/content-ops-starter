@@ -443,10 +443,7 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Professional IT Engineer
         subtitle: Arjun
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Hello, Everyone I'm\_**'Arjun Ramtel'**. I'm Designer. my work platform is social media and technology platform and\_**professional this work**\_in my daily life. I have learning the '**information technology**' fill has a '**student**' in fourth year of my career. I have learning the '**different type of education**' and '**skills**' in my daily life.\n"
         image:
           url: /images/Arjun Ramtel (29mm-35mm).jpg
           altText: Maria Walters
