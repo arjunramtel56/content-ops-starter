@@ -32,7 +32,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Abount",
+            "label": "About",
             "altText": "Dropdown",
             "links": [
                 {
