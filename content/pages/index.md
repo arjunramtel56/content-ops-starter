@@ -316,18 +316,15 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: E-commerce Platform Design
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: 'Hello, I''m Arjun'
+    text: |
+      This is destining by the e-commerce platform on WordPress help
     actions: []
     media:
       title: Title of the video
@@ -361,10 +358,9 @@ sections:
       text: Social Media Management
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: 'Hello, I''m Arjun'
+    text: |
+      this is platform design by social media management system.
     actions:
       - label: Get started
         url: /
@@ -384,7 +380,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -440,19 +436,16 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: ''
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        tagline: Professional IT Engineer
+        subtitle: 'Arjun Ramtel, IT Engineer'
+        text: "Hello, Everyone I'm\_**'Arjun Ramtel'**. I'm Designer. my work platform is social media and technology platform and\_**professional this work**\_in my daily life. I have learning the '**information technology**' fill has a '**student**' in fourth year of my career. I have learning the '**different type of education**' and '**skills**' in my daily life.\n"
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Arjun Ramtel (29mm-35mm).jpg
           altText: Maria Walters
           styles:
             self:
@@ -597,13 +590,10 @@ sections:
           Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Hello, Everyone I'm\_**'Arjun Ramtel'**. I'm Designer. my work platform is social media and technology platform and\_**professional this work**\_in my daily life. I have learning the '**information technology**' fill has a '**student**' in fourth year of my career. I have learning the '**different type of education**' and '**skills**' in my daily life.\n\n\n\n\n"
         image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
+          url: /images/Arjun Ramtel (29mm-35mm).jpg
+          altText: Arjun Ramtel
           styles:
             self:
               borderRadius: full
