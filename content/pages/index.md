@@ -359,9 +359,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Hello, I''m Arjun'
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      this is platform design by social media management system.
     actions:
       - label: Get started
         url: /
