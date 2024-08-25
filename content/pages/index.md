@@ -206,7 +206,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: This is a platform of I'm working of E-commerce business
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
