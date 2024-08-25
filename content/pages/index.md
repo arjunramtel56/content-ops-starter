@@ -323,11 +323,8 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: 'Hello, I''m Arjun'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      This is destining by the e-commerce platform on WordPress help
     actions: []
     media:
       title: Title of the video
