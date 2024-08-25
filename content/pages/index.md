@@ -363,7 +363,7 @@ sections:
       this is platform design by social media management system.
     actions:
       - label: Get started
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: secondary
