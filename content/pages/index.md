@@ -208,7 +208,7 @@ sections:
         textAlign: center
   - subtitle: This is a platform of I'm working of E-commerce business
     images:
-      - url: /images/0000000000.jpg
+      - url: /images/61837.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
