@@ -577,7 +577,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: Digital Marketing
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
