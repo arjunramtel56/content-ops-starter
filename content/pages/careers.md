@@ -112,7 +112,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: E-commerce
-        subtitle: Marketing
+        subtitle: Marketing of social media
         text: >
           **E-commerce** platform is working of social media help to generate
           the your income source of daily life.
