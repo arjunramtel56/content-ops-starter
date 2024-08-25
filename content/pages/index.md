@@ -665,11 +665,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Professional IT Engineer
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Hello, Everyone I'm\_**'Arjun Ramtel'**. I'm Designer. my work platform is social media and technology platform and\_**professional this work.**\nThis platform design by **E-commerce** platform running and help of '**Digital Marketing'**.\n\n  \n"
     media:
       fields:
         - name: name
