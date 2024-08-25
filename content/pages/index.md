@@ -256,6 +256,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: This is a Member of this platform design
   - title: Divider
     colors: bg-light-fg-dark
     styles:
