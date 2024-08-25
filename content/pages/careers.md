@@ -119,7 +119,7 @@ sections:
 
 
           **'E-commerce and Digital Marketing'** is a partnership of this
-          **business model** of income generate of your life
+          **business model** of income generate of your life.
         colors: bg-neutral-fg-dark
         styles:
           self:
