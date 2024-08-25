@@ -84,7 +84,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Positions open careers
       color: text-dark
       styles:
         self:
