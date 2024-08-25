@@ -596,7 +596,7 @@ sections:
           explicabo.
         image:
           url: /images/img-placeholder-dark.png
-          altText: Jane Doe
+          altText: Arjun Ramtel
           styles:
             self:
               borderRadius: full
