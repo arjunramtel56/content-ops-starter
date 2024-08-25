@@ -48,7 +48,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "FAQs",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
