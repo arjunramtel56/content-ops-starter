@@ -259,7 +259,7 @@ sections:
     subtitle: This is a Member of this platform design
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: This is a Member of this platform design
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
