@@ -344,7 +344,7 @@ sections:
       text: Digital Marketing
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Host by Arjun Ramtel
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
