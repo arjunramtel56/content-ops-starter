@@ -316,7 +316,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: E-c
+      text: E-commerce Platform Design
       color: text-dark
       styles:
         self:
