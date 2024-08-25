@@ -117,10 +117,13 @@ sections:
         type: FeaturedItem
       - title: E-commerce
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **E-commerce** platform is working of social media help to generate
+          the your income source of daily life.
+
+
+          **'E-commerce and Digital Marketing'** is a partnership of this
+          **business model** of income generate of your life
         colors: bg-neutral-fg-dark
         styles:
           self:
