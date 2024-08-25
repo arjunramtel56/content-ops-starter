@@ -94,10 +94,14 @@ sections:
     items:
       - title: Digital Marketing
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Sales the product of online platform and increase your experience and
+          your portfolio.
+
+
+          Digital marketing help the your income source generate of your daily
+          life
+
         colors: bg-neutral-fg-dark
         styles:
           self:
