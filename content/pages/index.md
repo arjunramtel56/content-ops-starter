@@ -346,8 +346,8 @@ sections:
       type: TitleBlock
     subtitle: Host by Arjun Ramtel
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      This website designing of e-commerce platform to working a partnership of
+      digital marketing
     actions:
       - label: Get started
         url: /
