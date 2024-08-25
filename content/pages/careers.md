@@ -92,7 +92,7 @@ sections:
       type: TitleBlock
     subtitle: it's your choice of your way
     items:
-      - title: Account Executive
+      - title: Digital Marketing
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
