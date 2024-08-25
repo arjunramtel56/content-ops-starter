@@ -135,10 +135,9 @@ sections:
         type: FeaturedItem
       - title: Senior Software Engineer
         subtitle: Professional IT Engineer
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Professional IT Engineer is not a professional job this is a challenge
+          of digital word
         colors: bg-neutral-fg-dark
         styles:
           self:
