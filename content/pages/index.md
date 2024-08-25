@@ -577,7 +577,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: Digital Marketing
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
@@ -600,7 +600,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: E-commerce
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
@@ -623,14 +623,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: 'Upcoming '
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/avatar6.svg
           altText: Placeholder image
           styles:
             self:
