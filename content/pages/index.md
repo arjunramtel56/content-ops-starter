@@ -261,56 +261,41 @@ sections:
       type: TitleBlock
       text: This is a Member of this platform design
       color: text-dark
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: GenericSection
     title:
+      type: TitleBlock
       text: E-commerce Platform Design
       color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
     subtitle: 'Hello, I''m Arjun'
-    text: |
-      This is destining by the e-commerce platform on WordPress help
-    actions: []
+    text: |+
+      This is destining by the e-commerce platform on **WordPress help.**
+
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
+      type: ImageBlock
+      url: /images/1683622584991.png
+      altText: E-commerce Platform Design
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
+        alignItems: center
   - title:
       text: Social Media Management
       color: text-dark
@@ -333,7 +318,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/1724486020152.jpg
+      url: /images/social-media-management.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -368,8 +353,8 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
-      altText: Dope design preview
+      url: /images/011111.jpg
+      altText: Digital Marketing
       type: ImageBlock
     colors: bg-light-fg-dark
     styles:
@@ -583,12 +568,11 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Digital Marketing
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        tagline: ''
+        subtitle: Sales of Product
+        text: "Sales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n\n"
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/011111.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -606,12 +590,11 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: E-commerce
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        tagline: ''
+        subtitle: Marketing of social media
+        text: "**E-commerce**\_platform is working of social media help to generate the your income source of daily life. **'E-commerce and Digital Marketing'**\_is a partnership of this\_**business model**\_of income generate of your life.\n\n\n"
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/1683622584991.png
           altText: Placeholder image
           styles:
             self:
@@ -628,14 +611,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: 'Upcoming '
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+      - title: Social Media Management
+        tagline: ''
+        subtitle: Mange the Social platform
+        text: |
+          Social Media Management System is a different of other platform.
         image:
-          url: /images/avatar6.svg
+          url: /images/social-media-management.webp
           altText: Placeholder image
           styles:
             self:
