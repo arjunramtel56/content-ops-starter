@@ -614,9 +614,8 @@ sections:
       - title: Social Media Management
         tagline: ''
         subtitle: Mange the Social platform
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          Social Media Management System is a different of other platform.
         image:
           url: /images/social-media-management.webp
           altText: Placeholder image
