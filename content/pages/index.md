@@ -570,8 +570,7 @@ sections:
       - title: Digital Marketing
         tagline: ''
         subtitle: Sales of Product
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Sales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n\n"
         image:
           url: /images/011111.jpg
           altText: Placeholder Image
