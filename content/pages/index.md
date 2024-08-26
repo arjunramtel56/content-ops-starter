@@ -613,7 +613,7 @@ sections:
         type: FeaturedItem
       - title: Social Media Management
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Mange the Social platform
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
