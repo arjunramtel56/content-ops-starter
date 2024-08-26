@@ -267,9 +267,9 @@ sections:
       text: E-commerce Platform Design
       color: text-dark
     subtitle: 'Hello, I''m Arjun'
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      This is destining by the e-commerce platform on **WordPress help.**
+
     actions:
       - type: Button
         label: Get started
