@@ -368,7 +368,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/011111.jpg
       altText: Digital Marketing
       type: ImageBlock
     colors: bg-light-fg-dark
