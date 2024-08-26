@@ -266,7 +266,7 @@ sections:
       type: TitleBlock
       text: E-commerce Platform Design
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: 'Hello, I''m Arjun'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
