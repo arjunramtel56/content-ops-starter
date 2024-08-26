@@ -287,7 +287,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/hero2.svg
-      altText: Fun feature preview
+      altText: E-commerce Platform Design
     badge:
       type: Badge
       label: This is a badge
