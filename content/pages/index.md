@@ -369,7 +369,7 @@ sections:
         type: Link
     media:
       url: /images/hero3.svg
-      altText: Dope design preview
+      altText: Digital Marketing
       type: ImageBlock
     colors: bg-light-fg-dark
     styles:
