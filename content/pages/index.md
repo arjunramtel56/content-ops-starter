@@ -620,7 +620,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/avatar6.svg
+          url: /images/social-media-management.webp
           altText: Placeholder image
           styles:
             self:
