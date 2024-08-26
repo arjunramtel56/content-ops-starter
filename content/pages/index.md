@@ -333,7 +333,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/1724486020152.jpg
+      url: /images/social-media-management.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
