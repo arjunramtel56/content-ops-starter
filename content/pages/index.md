@@ -286,7 +286,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/1683622584991.png
       altText: E-commerce Platform Design
     badge:
       type: Badge
