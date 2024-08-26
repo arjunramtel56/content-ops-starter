@@ -613,7 +613,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: 'Upcoming '
+      - title: Social Media Management
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
