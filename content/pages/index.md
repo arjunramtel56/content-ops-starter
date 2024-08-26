@@ -592,8 +592,7 @@ sections:
       - title: E-commerce
         tagline: ''
         subtitle: Marketing of social media
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: "**E-commerce**\_platform is working of social media help to generate the your income source of daily life. **'E-commerce and Digital Marketing'**\_is a partnership of this\_**business model**\_of income generate of your life.\n\n\n"
         image:
           url: /images/1683622584991.png
           altText: Placeholder image
