@@ -271,26 +271,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: GenericSection
-    title:
-      text: E-commerce Platform Design
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: 'Hello, I''m Arjun'
-    text: |
-      This is destining by the e-commerce platform on WordPress help
-    actions: []
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Social Media Management
       color: text-dark
