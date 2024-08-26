@@ -569,7 +569,7 @@ sections:
     items:
       - title: Digital Marketing
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Sales of Product
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
