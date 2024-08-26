@@ -591,7 +591,7 @@ sections:
         type: FeaturedItem
       - title: E-commerce
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Marketing of social media
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
