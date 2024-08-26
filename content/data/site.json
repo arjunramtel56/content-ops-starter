@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Arjun Ramtel (29mm-35mm).jpg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "Arjun Ramtel",
+    "defaultSocialImage": "/images/Arjun Ramtel (29mm-35mm).jpg",
     "type": "Config",
     "header": "content/data/header.json"
 }
