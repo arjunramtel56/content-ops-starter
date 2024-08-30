@@ -384,7 +384,7 @@ sections:
         textAlign: center
   - title:
       text: Request A Free Consultation
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: ''
