@@ -61,7 +61,7 @@
                 "type": "Link",
                 "label": "Blog",
                 "altText": "About",
-                "url": "/About",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary"
