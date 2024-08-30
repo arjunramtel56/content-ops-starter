@@ -442,7 +442,7 @@ sections:
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: Digital Marketing
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
