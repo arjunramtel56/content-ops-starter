@@ -1,0 +1,28 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Home",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "/home"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Blog",
+                "altText": "Blog",
+                "url": "/blog",
+                "showIcon": null,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": null
+            },
+            "thumbnail": "images/link-home-899e.png"
+        }
+    ]
+}
