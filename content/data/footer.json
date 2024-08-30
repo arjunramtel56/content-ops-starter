@@ -78,6 +78,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/share/ELwgSE5x8eFwQigq/?mibextid=qi2Omg",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
             "altText": "X",
             "url": "https://x.com/arjunramtel56?t=Zu7ChlmlVs0ZIqt1QsvFEg&s=09",
             "icon": "twitter",
