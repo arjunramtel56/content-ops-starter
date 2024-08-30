@@ -21,6 +21,15 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",
