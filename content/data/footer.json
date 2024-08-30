@@ -51,7 +51,7 @@
             {
                 "type": "Link",
                 "label": "Blog",
-                "altText": "Blog",
+                "altText": "Home",
                 "url": "/home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
