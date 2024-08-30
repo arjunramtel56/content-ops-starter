@@ -386,7 +386,7 @@ sections:
       text: Welcome To Digital Business
       color: text-primary
       type: TitleBlock
-    subtitle: Welcome To Business Yard Pvt. Ltd.
+    subtitle: Grow Your BusinessMake It Big Now
     text: >
       Whether you’re an entrepreneur launching your startup or a seasoned
       business owner looking to expand your horizons, you’ve come to the right
