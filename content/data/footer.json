@@ -89,12 +89,6 @@
             "url": "https://x.com/arjunramtel56?t=Zu7ChlmlVs0ZIqt1QsvFEg&s=09",
             "icon": "twitter",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "arjunramtel56@gmail.com",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
@@ -113,6 +107,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "LinkedIn",
+            "altText": "LinkedIn",
+            "url": "https://www.linkedin.com/in/arjun-ramtel-3081791b2/",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "copyrightText": "Powered by [Arjun Ramtel](https://www.netlify.com/platform/create/)\n",
