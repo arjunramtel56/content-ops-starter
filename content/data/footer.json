@@ -32,15 +32,6 @@
         "title": "Quick Links",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "label": "Home",
                 "altText": "home",
@@ -48,6 +39,15 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary"
+            },
+            {
+                "label": "Careers",
+                "altText": "careers page",
+                "url": "/careers",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
             },
             {
                 "label": "blog",
