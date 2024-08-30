@@ -444,7 +444,7 @@ sections:
       type: BackgroundImage
       altText: Digital Marketing
       backgroundSize: contain
-      backgroundPosition: center
+      backgroundPosition: bottom
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/011111.jpg
