@@ -386,7 +386,7 @@ sections:
       text: Arjun Ramtel
       color: text-dark
       type: TitleBlock
-    subtitle: Professional IT Engineer
+    subtitle: ''
     text: ''
     media:
       fields:
