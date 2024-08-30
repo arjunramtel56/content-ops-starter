@@ -56,6 +56,15 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "altText": "Blog",
+                "url": "/About",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary"
             }
         ],
         "type": "FooterLinksGroup"
