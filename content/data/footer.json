@@ -41,15 +41,6 @@
                 "style": "secondary"
             },
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "blog",
                 "url": "/blog",
                 "icon": "arrowRight",
@@ -57,6 +48,15 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "blog"
+            },
+            {
+                "label": "Careers",
+                "altText": "careers page",
+                "url": "/careers",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
             },
             {
                 "type": "Link",
