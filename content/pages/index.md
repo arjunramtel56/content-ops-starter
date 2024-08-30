@@ -453,5 +453,7 @@ seo:
   metaDescription: Grow Your Business Make It Big Now
   socialImage: /images/Arjun Ramtel (29mm-35mm).jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
