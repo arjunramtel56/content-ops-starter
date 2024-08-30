@@ -60,7 +60,7 @@
             {
                 "type": "Link",
                 "label": "Blog",
-                "altText": "Blog",
+                "altText": "About",
                 "url": "/About",
                 "icon": "arrowRight",
                 "iconPosition": "right",
