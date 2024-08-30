@@ -224,7 +224,7 @@ sections:
               - pr-9
             textAlign: left
             borderRadius: large
-            flexDirection: col
+            flexDirection: row
             justifyContent: center
         type: FeaturedItem
       - title: >-
