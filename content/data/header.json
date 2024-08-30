@@ -91,7 +91,7 @@
         }
     ],
     "variant": "logo-left-primary-nav-right",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-light-fg-dark",
     "type": "Header",
     "title": "Grow Your Business Make It Big Now",
     "styles": {
