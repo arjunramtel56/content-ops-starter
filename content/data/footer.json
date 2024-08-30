@@ -29,8 +29,26 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Arjun ramtel",
+        "title": "Quick Links",
         "links": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "altText": "home",
+                "url": "/home",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary"
+            },
+            {
+                "label": "blog",
+                "url": "/blog",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link",
+                "altText": "blog"
+            },
             {
                 "label": "Careers",
                 "altText": "careers page",
@@ -41,12 +59,13 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "type": "Link",
+                "label": "About",
+                "altText": "about",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "style": "secondary"
             }
         ],
         "type": "FooterLinksGroup"
