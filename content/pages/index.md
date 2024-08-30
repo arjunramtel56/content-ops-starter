@@ -447,6 +447,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/011111.jpg
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
