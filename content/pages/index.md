@@ -387,7 +387,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Professional IT Engineer
-    text: "Hello, Everyone I'm\_**'Arjun Ramtel'**. I'm Designer. my work platform is social media and technology platform and\_**professional this work.**\nThis platform design by **E-commerce** platform running and help of '**Digital Marketing'**.\n\n  \n"
+    text: ''
     media:
       fields:
         - name: name
