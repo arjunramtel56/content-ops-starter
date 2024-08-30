@@ -42,7 +42,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Home",
                 "altText": "Home",
                 "url": "/home",
                 "icon": "arrowRight",
