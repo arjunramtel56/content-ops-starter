@@ -225,7 +225,7 @@ sections:
             textAlign: left
             borderRadius: large
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-end
         type: FeaturedItem
       - title: >-
           "Design is a plan for arranging elements in such a way as best to
