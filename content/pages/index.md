@@ -451,7 +451,7 @@ sections:
 seo:
   metaTitle: Grow Your Digital Business
   metaDescription: Grow Your Business Make It Big Now
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Arjun Ramtel (29mm-35mm).jpg
   type: Seo
 type: PageLayout
 ---
