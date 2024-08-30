@@ -13,7 +13,7 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Blog",
+            "label": "Home",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
