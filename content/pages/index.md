@@ -449,7 +449,7 @@ sections:
       opacity: 20
       url: /images/011111.jpg
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Grow Your Digital Business
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
