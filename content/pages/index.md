@@ -454,5 +454,6 @@ seo:
   socialImage: /images/Arjun Ramtel (29mm-35mm).jpg
   type: Seo
   metaTags: []
+  addTitleSuffix: true
 type: PageLayout
 ---
