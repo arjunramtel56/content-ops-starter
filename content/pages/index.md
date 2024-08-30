@@ -443,7 +443,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: Digital Marketing
-      backgroundSize: contain
+      backgroundSize: auto
       backgroundPosition: ''
       backgroundRepeat: no-repeat
       opacity: 100
