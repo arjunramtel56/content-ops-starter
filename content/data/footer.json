@@ -50,7 +50,7 @@
                 "style": "secondary"
             },
             {
-                "label": "Home",
+                "label": "blog",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
