@@ -61,7 +61,7 @@
             {
                 "type": "Link",
                 "label": "About",
-                "altText": "About",
+                "altText": "about",
                 "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
