@@ -446,7 +446,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: ''
       backgroundRepeat: no-repeat
-      opacity: 12
+      opacity: 20
       url: /images/011111.jpg
 seo:
   metaTitle: Home - Demo site
