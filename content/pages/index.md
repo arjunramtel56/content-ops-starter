@@ -383,7 +383,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Welcome To Business Yard Pvt. Ltd.
+      text: Welcome To Digital Business
       color: text-primary
       type: TitleBlock
     subtitle: Welcome To Business Yard Pvt. Ltd.
