@@ -440,10 +440,21 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: Digital Marketing
+      backgroundSize: auto
+      backgroundPosition: ''
+      backgroundRepeat: no-repeat
+      opacity: 20
+      url: /images/011111.jpg
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Grow Your Digital Business
+  metaDescription: Grow Your Business Make It Big Now
+  socialImage: /images/Arjun Ramtel (29mm-35mm).jpg
   type: Seo
+  metaTags: []
+  addTitleSuffix: true
 type: PageLayout
+isDraft: true
 ---
