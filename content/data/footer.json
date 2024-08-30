@@ -43,7 +43,7 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "altText": "Home",
+                "altText": "home",
                 "url": "/home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
