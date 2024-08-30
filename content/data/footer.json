@@ -41,14 +41,6 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "label": "Blog",
                 "altText": "Home",
@@ -56,6 +48,14 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
             },
             {
                 "type": "Link",
