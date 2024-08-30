@@ -72,17 +72,17 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/arjunramtel56",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "Facebook link",
             "url": "https://www.facebook.com/share/ELwgSE5x8eFwQigq/?mibextid=qi2Omg",
             "icon": "facebook",
             "elementId": ""
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/arjunramtel56",
+            "icon": "github",
+            "type": "Social"
         },
         {
             "altText": "X",
