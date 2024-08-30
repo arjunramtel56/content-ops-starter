@@ -227,7 +227,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderStyle: dotted
-            borderColor: border-neutral
+            borderColor: border-light
         type: FeaturedItem
       - title: >-
           "Design is a plan for arranging elements in such a way as best to
