@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/favicon.svg",
         "altText": "Home",
         "styles": {
             "self": {
